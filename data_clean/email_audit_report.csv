@@ -1,0 +1,9 @@
+Module,Column,Non_Nulls,Completeness_%,Sample_Values
+AI_for_NGOs,p00_mail,22,95.65,melisap@asonog.hn; malena.fama@multipolar.org.ar; kasmaku.mabala06@gmail.com
+AI_for_NGOs,c00_maillookup,20,86.96,Melisa Peña; Malena Bárbara Famá; Mabala Robert
+AI_for_NGOs,c00_modlookupmail,20,86.96,2. Seguridad digital y gestión de riesgos; 3. Movilización de recursos para las organizaciones de la sociedad civil en un contexto digital; 1. Gestion et éthique de la IA dans le fonctionnement des ONG
+AI_for_NGOs,c00_mailnotfound,23,100.0,1; 0; 0
+AI_for_NGOs,p207_digital_tools/Exclusive_mail,7,30.43,1.0; 1.0; 1.0
+AI_for_NGOs,p207_digital_tools/Personal_mail,7,30.43,0.0; 1.0; 1.0
+AI_for_NGOs,p213_comm_means/Email,7,30.43,1.0; 1.0; 1.0
+AI_for_NGOs,p223_threats/Hack_email_or_RRSS,7,30.43,1.0; 1.0; 1.0

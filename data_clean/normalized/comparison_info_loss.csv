@@ -1,0 +1,5 @@
+Module,Rows_Clean,Rows_Norm,Retention_%,Cols_Clean,Cols_Norm,Nulls_Clean_%,Nulls_Norm_%,Email_Match_%
+AI_for_NGOs,23,23,100.0,41,3,49.31,1.45,100.0
+Digital_Security,45,3,6.67,21,3,62.43,11.11,
+Resource_Mobilization,45,1,2.22,32,3,64.72,66.67,
+Public_Speaking,45,1,2.22,2,3,22.22,66.67,

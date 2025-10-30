@@ -1,0 +1,5 @@
+module,rows,columns,avg_null_ratio_%,empty_columns
+AI_for_NGOs,45,58,64.18,17
+Digital_Security,45,36,80.31,16
+Resource_Mobilization,45,34,69.08,3
+Public_Speaking,45,1,44.44,0

@@ -1,0 +1,14 @@
+{
+    "AI_for_NGOs": {
+        "candidate_email_columns": [
+            "p00_mail",
+            "c00_maillookup",
+            "c00_modlookupmail",
+            "p207_digital_tools/Exclusive_mail",
+            "p207_digital_tools/Personal_mail",
+            "p213_comm_means/Email",
+            "p223_threats/Hack_email_or_RRSS"
+        ],
+        "best_candidate": "p00_mail"
+    }
+}
